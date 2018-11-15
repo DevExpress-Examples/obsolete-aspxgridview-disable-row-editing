@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Default.aspx](./CS/Default.aspx)**
+* [Default.aspx.cs](./CS/Default.aspx.cs)
+<!-- default file list end -->
 # [OBSOLETE, version v13.2 only] ASPxGridView - How to disable editing for rows that match some condition in Batch Edit Mode
 
 
